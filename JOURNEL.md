@@ -6,7 +6,9 @@ Today, I got KiCad setup along with the libraries. It took some troubleshooting 
 
 
 
-<img src="./layout.png">
+<img src="images/15.07.2026/layout.png">
 
-<img src="./work done.png">
+
+
+<img src="images/15.07.2026/work done.png">
 
