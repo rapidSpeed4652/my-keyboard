@@ -1,0 +1,9 @@
+# KiCad lock files
+*.lck
+
+# Backup files
+*-bak
+*.bak
+
+# Autosave files
+*.autosave
