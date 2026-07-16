@@ -1,4 +1,4 @@
-\## 15/07/2026 8:55pm
+## 15/07/2026 8:55pm
 
 <i>Time spent: 20 mins</i>
 
@@ -12,3 +12,11 @@ Today, I got KiCad setup along with the libraries. It took some troubleshooting 
 
 <img src="images/15.07.2026/work done.png">
 
+
+## 16/07/2026 6:25pm
+<i>Time spent: 2 hrs 44 mins</i>
+
+Today, i completed the schematic and also tried designing the pcb, but messed up the sizes of stabilisers of keys due to which i had to start again for pcb design. Ughhhh :P. Putting all the keys in layout is pretty difficult, but hopefully i can complete it tomorrow.
+
+<img src="images/16.07.2026/schematic.png">
+<img src="images/16.07.2026/pcb.png">
