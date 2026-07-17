@@ -20,3 +20,10 @@ Today, i completed the schematic and also tried designing the pcb, but messed up
 
 <img src="images/16.07.2026/schematic.png">
 <img src="images/16.07.2026/pcb.png">
+
+## 17/07/2026 6:16pm
+<i>Time spent: 2 hrs 37 mins</i>
+
+Today, i finally fixed the pcb design and stabilisers. It took a lot of time and asking AI, ik its dumb but i had to. Making the layout was pretty difficult task even with the plugin that automatically does it for you. Tommorows agenda is to complete the traces.
+
+<img src="images/17.07.2026/layout.png">
