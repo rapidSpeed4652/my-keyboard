@@ -27,3 +27,10 @@ Today, i completed the schematic and also tried designing the pcb, but messed up
 Today, i finally fixed the pcb design and stabilisers. It took a lot of time and asking AI, ik its dumb but i had to. Making the layout was pretty difficult task even with the plugin that automatically does it for you. Tommorows agenda is to complete the traces.
 
 <img src="images/17.07.2026/layout.png">
+
+## 20/07/2026  8:06pm
+<i>Time spent: 2hrs</i>
+
+Today, i tried fixing the switches and diodes annotation so that i can put the traces properly, but it kept erroring out. So, i had to reset half my progress and redo it again. Since im tired, im gonna continue renaming the diodes tomorrow.
+
+<img src"images/20.07.2026/fixed layout.png">
