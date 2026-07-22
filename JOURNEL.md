@@ -33,4 +33,12 @@ Today, i finally fixed the pcb design and stabilisers. It took a lot of time and
 
 Today, i tried fixing the switches and diodes annotation so that i can put the traces properly, but it kept erroring out. So, i had to reset half my progress and redo it again. Since im tired, im gonna continue renaming the diodes tomorrow.
 
-<img src"images/20.07.2026/fixed layout.png">
+<img src="images/20.07.2026/fixed layout.png">
+
+## 22/07/2026 5:02pm
+<i>Time spent: 2hrs 10 mins</i>
+
+Today, i finally fixed the diodes and started marking the traces but i kinda messed up the position of traces. Its kinda difficult to make sure that theres always place for other traces to go without going through another trace. For now, I have connected the switches and connected the traces in the schematic. Imma complete the traces tmr. Ik i keep procrastinating abt completing the traces xD
+
+<img src="images/22.07.2026/traces.png">
+<img src="images/22.07.2026/pcb traces.png">
